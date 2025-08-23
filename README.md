@@ -41,7 +41,7 @@
 ### 🔝 Top Contributed Repo
 <div align="center">
    <div>
-    <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+    <img align="right" height="250" src="assets/images/user (2).gif"  />
    </div>
   
   <div align="left">
