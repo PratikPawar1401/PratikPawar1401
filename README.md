@@ -23,14 +23,14 @@
 # 📊 GitHub Stats:
 <div align="center">
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=PratikPawar1401&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-    <img align="right" src="https://nirzak-streak-stats.vercel.app/?user=PratikPawar1401&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratikPawar1401&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+    <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=PratikPawar1401&theme=dark&hide_border=false" alt="GitHub Streak" />
   </div>
 </div>
 
 <br clear="both"/>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -46,7 +46,7 @@
   
   <div align="left">
     
-![](https://github-contributor-stats.vercel.app/api?username=PratikPawar1401&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=PratikPawar1401&limit=5&theme=dark&combine_all_yearly_contributions=true)
     
   </div>
 </div>
