@@ -22,13 +22,17 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <div>
-    <img align="right" height = "170" src="https://github-readme-stats.vercel.app/api?username=PratikPawar1401&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-    <img align="left"  height = "170" src="https://nirzak-streak-stats.vercel.app/?user=PratikPawar1401&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </div>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=PratikPawar1401&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=PratikPawar1401&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br clear="both"/>
 
 ### ✍️ Dev Quote
 <div align="center">
@@ -37,21 +41,19 @@
 
 </div>
 
-
 ### 🔝 Top Contributed Repo
 <div align="center">
-   <div>
-    <img align="right" height="180" src="assets/images/user (2).gif"  />
-   </div>
-  
-  <div align="left">
-    
-![](https://github-contributor-stats.vercel.app/api?username=PratikPawar1401&limit=5&theme=dark&combine_all_yearly_contributions=true)
-    
-  </div>
+  <table>
+    <tr>
+      <td width="70%">
+        <img src="https://github-contributor-stats.vercel.app/api?username=PratikPawar1401&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="100%" />
+      </td>
+      <td width="30%">
+        <img src="assets/images/user (2).gif" alt="Coding GIF" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br clear="both"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PratikPawar1401&icon=0&color=0)](https://visitcount.itsvg.in)
