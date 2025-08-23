@@ -1,17 +1,20 @@
 # 💫 About Me:
 <div align="center">
-  <div>
-    <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
-  </div>
-  
-  <div align="left">
-    👋Hi , I'm @PratikPawar currently pursuing Bachelors in Artificial Intelligence<br>
-    💡I am Passionate about solving real-world problems through technology<br>
-    ⚡ Experience with API development, database integration, and system deployment<br>
-    🧠 Training neural networks by day, debugging mobile apps by night<br>
-    🚀 Building AI systems in a galaxy not so far, far away......(yes, fan of star wars)<br>
-    🎸 The Guitarist Who Codes (Or The Coder Who Guitars?)<br><br>
-  </div>
+  <table>
+    <tr>
+      <td width="70%">
+        👋Hi , I'm @PratikPawar currently pursuing Bachelors in Artificial Intelligence<br>
+        💡I am Passionate about solving real-world problems through technology<br>
+        ⚡ Experience with API development, database integration, and system deployment<br>
+        🧠 Training neural networks by day, debugging mobile apps by night<br>
+        🚀 Building AI systems in a galaxy not so far, far away......(yes, fan of star wars)<br>
+        🎸 The Guitarist Who Codes (Or The Coder Who Guitars?)<br><br>
+      </td>
+      <td width="30%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🌐 Socials:
