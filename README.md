@@ -41,7 +41,7 @@
 ### 🔝 Top Contributed Repo
 <div align="center">
    <div>
-    <img align="right" height="200" src="assets/images/user (2).gif"  />
+    <img align="right" height="180" src="assets/images/user (2).gif"  />
    </div>
   
   <div align="left">
