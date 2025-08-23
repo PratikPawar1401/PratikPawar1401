@@ -36,7 +36,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
-![212750147-854a394f-fee9-4080-9770-78a4b7ece53f](https://github.com/user-attachments/assets/b5378774-c18a-463f-b62d-0560d8f907d3)
+
 
 ### 🔝 Top Contributed Repo
 <div align="center">
