@@ -23,8 +23,8 @@
 # 📊 GitHub Stats:
 <div align="center">
   <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratikPawar1401&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-    <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=PratikPawar1401&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <img align="right" height = "180" src="https://github-readme-stats.vercel.app/api?username=PratikPawar1401&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+    <img align="left"  height = "180" src="https://nirzak-streak-stats.vercel.app/?user=PratikPawar1401&theme=dark&hide_border=false" alt="GitHub Streak" />
   </div>
 </div>
 
