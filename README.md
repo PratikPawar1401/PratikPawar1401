@@ -11,7 +11,7 @@
         🎸 The Guitarist Who Codes (Or The Coder Who Guitars?)<br><br>
       </td>
       <td width="30%">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="100%" />
+        <img src="assets/images/hi-children.gif" alt="Coding GIF" width="100%" />
       </td>
     </tr>
   </table>
@@ -60,7 +60,7 @@
         <img src="https://github-contributor-stats.vercel.app/api?username=PratikPawar1401&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="100%" />
       </td>
       <td width="30%">
-        <img src="assets/images/user (2).gif" alt="Coding GIF" width="100%" />
+        <img src="assets/images/215911.gif" alt="Coding GIF" width="100%" />
       </td>
     </tr>
   </table>
