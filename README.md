@@ -1,13 +1,13 @@
-# 💫 About Me:
+#  About Me:
 <div align="center">
   <table>
     <tr>
       <td width="70%">
-        👋Hi, I'm @PratikPawar currently pursuing Bachelors in Artificial Intelligence<br>
-        💡I am Passionate about solving real-world problems through technology<br>
-        🚀 Building AI systems in a galaxy not so far, far away......(yes, fan of star wars btw)<br>
-        🧠 Training neural networks by day, debugging apps by night<br>
-        🎸 The Guitarist Who Codes (Or The Coder Who Guitars?)<br><br>
+        Hi, I'm @PratikPawar currently pursuing Bachelors in Artificial Intelligence<br>
+        I am Passionate about solving real-world problems through technology<br>
+        Building AI systems in a galaxy not so far, far away......(yes, fan of star wars btw)<br>
+        Training neural networks by day, debugging apps by night 🧠<br>
+        The Guitarist Who Codes (Or The Coder Who Guitars?)🎸<br><br>
       </td>
       <td width="30%">
         <img src="assets/images/hi-children.gif" alt="Coding GIF" width="100%" />
