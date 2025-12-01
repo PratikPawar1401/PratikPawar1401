@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Banner GIF" width="100%" />
+  <img src="https://github.com/PratikPawar1401/PratikPawar1401/blob/cfeb982094d691e79a0a0f5b97c9d12f9cf15201/assets/images/3dc98e10a8cef3affa7c30e4b79453bc.gif" alt="Banner GIF" height = "90x" width="100%" />
 </div>
 
 ## 🌐 Socials:
