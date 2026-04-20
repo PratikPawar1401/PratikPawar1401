@@ -8,6 +8,7 @@
         Building AI systems in a galaxy not so far, far away......(yes, fan of star wars btw)<br>
         Training neural networks by day, debugging apps by night 🧠<br>
         The Guitarist Who Codes (Or The Coder Who Guitars?)🎸<br><br>
+        <img src="https://komarev.com/ghpvc/?username=PratikPawar1401&label=Profile%20Views&color=0e75b6&style=flat" />
       </td>
       <td width="30%">
         <img src="assets/images/hi-children.gif" alt="Coding GIF" width="100%" />
@@ -66,6 +67,5 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PratikPawar1401&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
