@@ -89,16 +89,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://streak-stats.demolab.com?user=PratikPawar1401&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ###  Random Dev Quote
 <div align="center">
   
@@ -119,7 +109,7 @@
     </td>
   </tr>
 </table>
----
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
