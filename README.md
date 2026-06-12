@@ -105,7 +105,9 @@
       <img src="assets/images/215911.gif" width="100%" alt="Coding animation" />
     </td>
     <td width="45%" valign="top">
-      <img src="https://spotify-app-git-main-pratiks-projects-fb9812c3.vercel.app/api/card.png" width="100%" alt="Spotify card" />
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark" width="100%" alt="Spotify Now Playing" />
+      </a>
     </td>
   </tr>
 </table>
