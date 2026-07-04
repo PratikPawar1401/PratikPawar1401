@@ -23,7 +23,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/pratik-pawar-78a645275/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -41,10 +41,6 @@
   </a>
 </p>
 
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner GIF" width="70%" />
-</div>
 
 ## 💻 Tech Stack
 
@@ -100,22 +96,36 @@
 ## 🎧 Coding & Music Corner
 
 <table>
-  <tr>
-    <td width="55%" valign="top">
-      <img src="assets/images/215911.gif" width="100%" alt="Coding animation" />
-    </td>
-    <td width="45%" valign="top">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&redirect=true">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light"
-      width="95%"
-      alt="Spotify Now Playing"
-    />
-  </a>
+<tr>
+
+<td width="55%" valign="top">
+<img src="assets/images/215911.gif" width="100%">
 </td>
-  </tr>
+
+<td width="45%" valign="top">
+
+<table>
+
+<tr>
+<td>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light">
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="assets/images/hi-children.gif" width="100%">
+</td>
+</tr>
+
 </table>
 
+</td>
+
+</tr>
+</table>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
