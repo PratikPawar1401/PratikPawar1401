@@ -106,7 +106,7 @@
     </td>
     <td width="45%" valign="top">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark" width="100%" alt="Spotify Now Playing" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark" height= "85%"  width="100%" alt="Spotify Now Playing" />
       </a>
     </td>
   </tr>
