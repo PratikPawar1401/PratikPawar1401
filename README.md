@@ -99,7 +99,7 @@
 <tr>
 
 <td width="55%" valign="top">
-<img src="assets/images/ -3.jpg" height= "750px" width="105%">
+<img src="assets/images/ -3.jpg" height="80%" width="105%">
 </td>
 
 <td width="45%" valign="top">
@@ -116,7 +116,7 @@
 
 <tr>
 <td>
-<img src="assets/images/ .gif" width="90%">
+<img src="assets/images/ .gif" width="100%">
 </td>
 </tr>
 
