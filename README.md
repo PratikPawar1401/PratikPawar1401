@@ -105,10 +105,14 @@
       <img src="assets/images/215911.gif" width="100%" alt="Coding animation" />
     </td>
     <td width="45%" valign="top">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark" height= "85%"  width="100%" alt="Spotify Now Playing" />
-      </a>
-    </td>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&redirect=true">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light"
+      width="95%"
+      alt="Spotify Now Playing"
+    />
+  </a>
+</td>
   </tr>
 </table>
 
