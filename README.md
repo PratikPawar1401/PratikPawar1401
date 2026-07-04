@@ -85,16 +85,14 @@
 
 ---
 
-###  Random Dev Quote
-<div align="center">
+### Dev Quote
+<div align="left">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
 ---
-## 🎧 Coding & Music Corner
-
 <table>
 <tr>
 
