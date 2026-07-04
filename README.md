@@ -2,7 +2,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="70%">
+      <td width="45%">
         Hi, I'm @PratikPawar currently pursuing Bachelors in Artificial Intelligence<br>
         I am Passionate about solving real-world problems through technology<br>
         Building AI systems in a galaxy not so far, far away......(yes, fan of star wars btw)<br>
@@ -10,8 +10,8 @@
         The Guitarist Who Codes (Or The Coder Who Guitars?)🎸<br><br>
         <img src="https://komarev.com/ghpvc/?username=PratikPawar1401&label=Profile%20Views&color=0e75b6&style=flat" />
       </td>
-      <td width="30%">
-        <img src="assets/images/hi-children.gif" alt="Coding GIF" width="100%" />
+      <td width="55%">
+        <img src="assets/images/211796.gif" alt="Coding GIF" width="100%" />
       </td>
     </tr>
   </table>
