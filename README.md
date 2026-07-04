@@ -116,7 +116,7 @@
 
 <tr>
 <td>
-<img src="assets/images/hi-children.gif" width="100%">
+<img src="assets/images/ .gif" width="100%">
 </td>
 </tr>
 
