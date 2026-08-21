@@ -96,7 +96,7 @@
 <tr>
 
 <td valign="top">
-<img src="assets/images/_%20(2).jpeg" height="470" />
+<img src="assets/images/_%20(3).jpeg" height="470" />
 </td>
 
 <td valign="top">
