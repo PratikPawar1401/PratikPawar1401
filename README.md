@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/PratikPawar1401/PratikPawar1401/blob/cfeb982094d691e79a0a0f5b97c9d12f9cf15201/assets/images/3dc98e10a8cef3affa7c30e4b79453bc.gif" alt="Banner GIF" height = "90x" width="100%" />
+  <img src="https://raw.githubusercontent.com/PratikPawar1401/PratikPawar1401/cfeb982094d691e79a0a0f5b97c9d12f9cf15201/assets/images/3dc98e10a8cef3affa7c30e4b79453bc.gif" alt="Banner GIF" width="100%" />
 </div>
 
 ## 🌐 Connect With Me
@@ -95,30 +95,16 @@
 <table>
 <tr>
 
-<td width="65%" valign="top">
-<img src="assets/images/_ (2).jpeg" height="45%">
+<td valign="top">
+<img src="assets/images/_%20(2).jpeg" height="470" />
 </td>
 
-<td width="35%" valign="top">
-
-<table>
-
-<tr>
-<td>
+<td valign="top">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ao0zz371rn9mc8rwwplsvn4fr&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark" width="440" />
 </a>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="assets/images/ .gif" width="100%">
-</td>
-</tr>
-
-</table>
-
+<br>
+<img src="assets/images/%20.gif" width="440" />
 </td>
 
 </tr>
