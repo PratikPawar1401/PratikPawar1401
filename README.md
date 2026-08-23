@@ -16,9 +16,7 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PratikPawar1401/PratikPawar1401/cfeb982094d691e79a0a0f5b97c9d12f9cf15201/assets/images/3dc98e10a8cef3affa7c30e4b79453bc.gif" alt="Banner GIF" width="100%" />
-</div>
+
 
 ## 🌐 Connect With Me
 
